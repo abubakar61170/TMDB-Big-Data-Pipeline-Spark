@@ -31,7 +31,7 @@ The analysis using PySpark SQL revealed several key insights into the movie indu
 * **Top Actor (2023):** **Eric Roberts** was the most prolific actor in 2023, appearing in **46** movies.
 * **Top ROI Movies:** The films with the highest Return on Investment (with a budget > $100M) include **Titanic (1032% ROI)**, **Jurassic World (1014% ROI)**, and **Barbie (897% ROI)**.
 
-![Top Actors 2023](images/top_actors_2023.png)
+![Top Actors 2023](images/top_actors_2023)
 
 ## Machine Learning Model: 2026 Genre Prediction
 
